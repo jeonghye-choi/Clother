@@ -2,7 +2,7 @@
 
 DND 동아리 5기 4조 CLOTHER의 `Front-end` repository 입니다.
 
-**디자이너 2명, 프런트엔드 2명, 백엔드 2명**으로 구성으로 프로젝트를 진행했습니다.
+**디자이너 2명, 프런트엔드 2명, 백엔드 2명** 구성으로 프로젝트를 진행했습니다.
 
 ### Frontend Member
 
@@ -23,7 +23,7 @@ DND 동아리 5기 4조 CLOTHER의 `Front-end` repository 입니다.
 
 -   프로젝트 목표
 
-    나와 다른 사람의 옷 기록을 통해 확인하는 날씨 앱
+    **나와 다른 사람의 옷 기록을 통해 날씨를 확인하자**
 
 <br/>
 
@@ -91,6 +91,8 @@ DND 동아리 5기 4조 CLOTHER의 `Front-end` repository 입니다.
 
     <video width="330" src="https://user-images.githubusercontent.com/54584063/169872950-50af5722-d982-4d70-bd84-29c7b1b32411.mp4" type="video/mp4" controls autoplay></video>
 
+    <br/>
+
 1. **메인 화면(Home)**
 
     날씨 정보를 한 번에 확인할 수 있고, 수치적 정보를 보지 않아도 날씨를 파악할 수 있습니다.
@@ -117,11 +119,15 @@ DND 동아리 5기 4조 CLOTHER의 `Front-end` repository 입니다.
 
             <video width="330" src="https://user-images.githubusercontent.com/54584063/169873930-e0d18100-4cd9-4ef3-a4f1-b621ac9a9555.mp4" type="video/mp4" controls autoplay></video>
 
+<br/>
+
 2. **옷 날씨 등록**
 
     위치 정보 설정, 옷차림 기록, 날씨 평가 3가지 단계로 기록할 수 있습니다.
 
     <video width="330" src="https://user-images.githubusercontent.com/54584063/169878786-622e33b3-ead5-4379-9f05-d9ffa7df3192.mp4" type="video/mp4" controls autoplay></video>
+
+<br/>
 
 3. **옷 날씨 캘린더**
 
@@ -138,6 +144,8 @@ DND 동아리 5기 4조 CLOTHER의 `Front-end` repository 입니다.
     - 기록 삭제
 
         <video width="330" src="https://user-images.githubusercontent.com/54584063/169874337-6f51a81a-e1bb-4df1-be3d-53bc50fffa4c.mp4" type="video/mp4" controls autoplay></video>
+
+<br/>
 
 4. **설정**
 
@@ -217,6 +225,6 @@ DND 동아리 5기 4조 CLOTHER의 `Front-end` repository 입니다.
 -   Slack
 -   Notion
 
-    <img width="1275" alt="DND4조대시보드" src="https://user-images.githubusercontent.com/54584063/169879426-783825e1-a8f3-407b-b605-0ae5d4932c3d.png">
+    <img width="1000" alt="DND4조대시보드" src="https://user-images.githubusercontent.com/54584063/169879426-783825e1-a8f3-407b-b605-0ae5d4932c3d.png">
 
-    <img width="1275" alt="PLAN&PROCESS" src="https://user-images.githubusercontent.com/54584063/169879493-51ae3b92-29da-44b4-8129-94946faa2d6e.png">
+    <img width="1000" alt="PLAN&PROCESS" src="https://user-images.githubusercontent.com/54584063/169879493-51ae3b92-29da-44b4-8129-94946faa2d6e.png">
