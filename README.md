@@ -223,7 +223,7 @@ DND 동아리 5기 4조 CLOTHER의 `Front-end` repository 입니다.
 ### Tools
 
 -   Slack
--   Notion
+-   Notion [-> 링크](https://jeonghye-choi.notion.site/DND-4-ae917ca9594445f0a303f5db7d1285c9)
 
     <img width="1000" alt="DND4조대시보드" src="https://user-images.githubusercontent.com/54584063/169879426-783825e1-a8f3-407b-b605-0ae5d4932c3d.png">
 
